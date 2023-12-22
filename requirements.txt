@@ -1,7 +1,6 @@
 streamlit
 matplotlib
 seaborn 
-sklearn.model_selection
-sklearn.linear_model 
+sklearn
 pandas
 pickle
