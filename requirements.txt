@@ -1,2 +1,7 @@
 streamlit
+matplotlib.pyplot
+seaborn 
+sklearn.model_selection
+sklearn.linear_model 
+pandas
 pickle
