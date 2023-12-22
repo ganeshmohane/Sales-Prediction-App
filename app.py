@@ -1,6 +1,5 @@
 import streamlit as st
-
-
+import pickle
 
 # Load the model
 lr = pickle.load(open('./assets/newLR.pkl', 'rb'))
